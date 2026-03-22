@@ -15,4 +15,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=adrv6&icon=0&color=0)](https://visitcount.itsvg.in)
 
+🇺🇸 English version | 🇪🇸 [Versión en español](README.es.md)
+
 <!-- Creado con GPRM ( https://gprm.itsvg.in ) -->
